@@ -15,7 +15,9 @@ I'm retraining as developer web, at Human Booster School.
 - Symfony
 - Angular 
 
+<br> 
 
+[![My linkedin](img/icon_linkedin.png)](https://www.linkedin.com/in/emilly-mesquita-a0b617107/) 
 
 
 <!--
