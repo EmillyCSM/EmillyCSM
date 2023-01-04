@@ -1,7 +1,6 @@
-![My picture](img/Profil_pic.png)
-## Hi, I'm Emilly MESQUITA🙋 
+## Hi, I'm Emilly🙋 
 
-I'm retraining as developer web, at Human Booster School. 
+I'm retraining as developer web since Feb. 2022 
 
 ### Languages & tools
 - HTML/CSS
@@ -15,9 +14,9 @@ I'm retraining as developer web, at Human Booster School.
 - Symfony
 - Angular 
 
-<br> 
+<br> <br> 
 
-[![My linkedin](img/icon_linkedin.png)](https://www.linkedin.com/in/emilly-mesquita-a0b617107/) 
+[![My linkedin](img/MyLinkedIn.png)](https://www.linkedin.com/in/emilly-mesquita-a0b617107/) 
 
 
 <!--
