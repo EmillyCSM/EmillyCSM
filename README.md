@@ -1,4 +1,22 @@
-### Hi there 👋
+![My picture](img/Profil_pic.png)
+## Hi, I'm Emilly MESQUITA🙋 
+
+I'm retraining as developer web, at Human Booster School. 
+
+### Languages & tools
+- HTML/CSS
+- JavaScript
+- WordPress
+- Figma
+
+### Currently learning 👩🏽‍💻
+- PHP
+- SQL - MySQL
+- Symfony
+- Angular 
+
+
+
 
 <!--
 **EmillyCSM/EmillyCSM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
