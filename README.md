@@ -1,6 +1,6 @@
 ## Hi, I'm Emilly🙋 
 
-I'm retraining as developer web since Feb. 2022 
+I've officially been a web developer since I graduated in November 2023. 🎉🥳
 
 ### Languages & tools
 - HTML/CSS
